@@ -10,3 +10,10 @@
   height: 200px;
   background-color: #333;
 }
+
+.mouseEventStage {
+  width: 300px;
+  height: 60px;
+  margin: 50px auto 0;
+  border: solid 2px #333;
+}
