@@ -17,3 +17,9 @@
   margin: 50px auto 0;
   border: solid 2px #333;
 }
+.mouseOverEventStage {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto 0;
+  background-color: #dd3a21;
+}
