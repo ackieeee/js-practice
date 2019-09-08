@@ -1,0 +1,12 @@
+.loadEventStage {
+  display: flex;
+  justify-content: space-around;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #333;
+}
